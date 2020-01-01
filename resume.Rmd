@@ -46,9 +46,10 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> noelia0618@gmail.com
-- <i class="fa fa-twitter"></i> data_datum
+- <i class="fa fa-twitter"></i> twitter.com/data_datum
 - <i class="fa fa-github"></i> github.com/data-datum
 - <i class="fa fa-link"></i> [Roxana Noelia Villafañe](roxananoelia.netlify.com/)
+- <i class="fab fa-telegram"></i> telegram.me/noelia0618 
 - <i class="fa fa-phone"></i> +54 03794 327730
 
 
@@ -132,7 +133,7 @@ print_section(position_data,'communities')
 ```
 
 
-Talks {data-icon=chart-line}
+Talks and Meetups {data-icon=chart-line}
 --------------------------------------------------------------------------------
 ::: aside
 All my talks available at
